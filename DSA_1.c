@@ -1261,6 +1261,6 @@ int main() {
 
     printf("Sorted array: ");
     printArray(arr, size);
-
+    printf("hh");
     return 0;
 }
